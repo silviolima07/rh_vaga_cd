@@ -1,0 +1,301 @@
+nome,email,experiencia,cargo,excel,power_bi,python,estatistica,IA,NLP,ingles,status,score_aderencia
+Davi Miguel Cardoso,rcostela@example.org,4,Cientista de Dados,Baixa,Alta,Avançada,Avançada,Avançada,Média,Baixa,Inapto,75.0
+Nicolas Albuquerque,gael-henriquemartins@example.com,14,Cientista de Dados,Média,Média,Alta,Alta,Média,Alta,Alta,Inapto,67.19
+Thiago Guerra,daniel01@example.com,4,Cientista de Dados,Alta,Média,Média,Alta,Média,Alta,Baixa,Inapto,57.03
+Luísa Pinto,cguerra@example.net,0,Cientista de Dados,Baixa,Baixa,Avançada,Média,Média,Baixa,Baixa,Inapto,48.44
+João Miguel Campos,pduarte@example.com,7,Cientista de Dados,Avançada,Alta,Avançada,Avançada,Avançada,Média,Alta,Apto,83.59
+Asafe Monteiro,fernandesaugusto@example.com,9,Cientista de Dados,Baixa,Baixa,Média,Alta,Avançada,Avançada,Alta,Inapto,79.69
+Luiz Miguel Barros,ida-mata@example.org,12,Cientista de Dados,Baixa,Baixa,Média,Avançada,Alta,Alta,Avançada,Inapto,73.44
+Ravi Caldeira,das-nevesgabriela@example.com,13,Cientista de Dados,Média,Baixa,Alta,Avançada,Alta,Média,Alta,Apto,69.53
+Bárbara Siqueira,saluana@example.com,7,Cientista de Dados,Alta,Baixa,Avançada,Alta,Avançada,Avançada,Alta,Apto,90.62
+Francisco Lopes,bbrito@example.net,12,Cientista de Dados,Média,Média,Baixa,Média,Média,Alta,Alta,Inapto,54.69
+Kamilly da Mota,camarabrenda@example.net,5,Cientista de Dados,Baixa,Baixa,Alta,Avançada,Baixa,Alta,Avançada,Inapto,65.62
+Juliana da Luz,guerrabrayan@example.net,4,Cientista de Dados,Baixa,Baixa,Média,Alta,Alta,Média,Alta,Inapto,60.94
+Fernando Campos,barbosamaysa@example.net,1,Cientista de Dados,Baixa,Média,Média,Alta,Baixa,Média,Média,Inapto,46.09
+José Miguel Azevedo,mendoncajoao@example.com,9,Cientista de Dados,Baixa,Baixa,Média,Média,Alta,Média,Média,Inapto,54.69
+Srta. Aylla Sampaio,aurora90@example.org,9,Cientista de Dados,Média,Média,Média,Avançada,Alta,Avançada,Média,Inapto,75.0
+Anthony Garcia,ana-laura93@example.com,3,Cientista de Dados,Média,Avançada,Avançada,Alta,Alta,Média,Baixa,Inapto,67.19
+Maria Sophia Gomes,zoe39@example.com,11,Cientista de Dados,Avançada,Média,Avançada,Média,Avançada,Alta,Alta,Apto,82.81
+Emilly Ferreira,pietrosa@example.org,13,Cientista de Dados,Baixa,Média,Avançada,Avançada,Média,Avançada,Média,Inapto,77.34
+Samuel Costela,gmartins@example.com,15,Cientista de Dados,Baixa,Alta,Alta,Avançada,Avançada,Média,Alta,Apto,76.56
+Luiz Felipe Araújo,psa@example.org,4,Cientista de Dados,Média,Média,Alta,Média,Baixa,Média,Avançada,Inapto,54.69
+Paulo Novais,tporto@example.com,10,Cientista de Dados,Baixa,Baixa,Média,Alta,Avançada,Baixa,Avançada,Inapto,64.06
+Emilly Caldeira,nina82@example.org,0,Cientista de Dados,Baixa,Baixa,Média,Avançada,Média,Alta,Média,Inapto,60.94
+Dra. Elisa Jesus,joana01@example.com,4,Cientista de Dados,Baixa,Baixa,Alta,Alta,Avançada,Alta,Média,Apto,75.0
+Valentina Garcia,luccacaldeira@example.com,7,Cientista de Dados,Baixa,Alta,Avançada,Avançada,Alta,Alta,Média,Apto,78.12
+Valentina Brito,ada-luz@example.org,10,Cientista de Dados,Média,Alta,Alta,Alta,Média,Alta,Avançada,Inapto,71.09
+Lorenzo Barbosa,carvalhoana-beatriz@example.net,9,Cientista de Dados,Média,Alta,Média,Média,Alta,Avançada,Média,Inapto,69.53
+Esther Barros,allana26@example.net,11,Cientista de Dados,Média,Baixa,Baixa,Média,Avançada,Média,Alta,Inapto,60.16
+João Silva,amandafarias@example.com,8,Cientista de Dados,Baixa,Média,Avançada,Alta,Média,Alta,Média,Inapto,67.97
+Thiago Monteiro,gmelo@example.org,5,Cientista de Dados,Avançada,Baixa,Baixa,Alta,Avançada,Média,Avançada,Inapto,67.97
+Camila Siqueira,marqueslorenzo@example.com,5,Cientista de Dados,Baixa,Média,Alta,Avançada,Avançada,Baixa,Alta,Inapto,69.53
+Matteo Freitas,barbosagael@example.com,0,Cientista de Dados,Alta,Baixa,Média,Baixa,Média,Avançada,Média,Inapto,59.38
+Yasmin Sousa,xaragao@example.org,11,Cientista de Dados,Baixa,Baixa,Avançada,Média,Avançada,Alta,Avançada,Apto,82.81
+Henry Gabriel Novais,maria-julia61@example.org,10,Cientista de Dados,Baixa,Alta,Avançada,Avançada,Alta,Média,Alta,Apto,75.0
+Fernanda Costa,emillycaldeira@example.org,0,Cientista de Dados,Baixa,Baixa,Média,Alta,Média,Alta,Média,Inapto,57.81
+Davi Luiz Siqueira,benicio79@example.org,11,Cientista de Dados,Alta,Baixa,Avançada,Alta,Alta,Alta,Baixa,Inapto,71.88
+Sra. Gabriela Câmara,luigi07@example.net,9,Cientista de Dados,Baixa,Alta,Média,Avançada,Alta,Avançada,Média,Inapto,75.0
+Sra. Bárbara Rocha,kda-mota@example.net,11,Cientista de Dados,Média,Avançada,Avançada,Média,Baixa,Alta,Avançada,Inapto,67.19
+Gustavo Henrique Cavalcanti,zoeda-luz@example.org,15,Cientista de Dados,Média,Alta,Avançada,Média,Avançada,Alta,Média,Apto,78.91
+Eduardo Fonseca,sousatheo@example.org,10,Cientista de Dados,Média,Baixa,Alta,Baixa,Média,Avançada,Média,Inapto,63.28
+Sr. Juan Castro,isabellycosta@example.com,2,Cientista de Dados,Baixa,Avançada,Alta,Alta,Média,Média,Média,Inapto,58.59
+Gael Henrique Casa Grande,mariah74@example.com,7,Cientista de Dados,Média,Média,Alta,Alta,Alta,Alta,Alta,Apto,73.44
+Isis Pires,qmoreira@example.net,11,Cientista de Dados,Média,Baixa,Alta,Média,Média,Avançada,Média,Inapto,66.41
+Benicio Correia,esther73@example.org,8,Cientista de Dados,Baixa,Baixa,Alta,Alta,Alta,Média,Avançada,Apto,68.75
+Srta. Maria Julia Farias,clara54@example.net,7,Cientista de Dados,Baixa,Baixa,Média,Avançada,Avançada,Alta,Média,Inapto,73.44
+Evelyn Costa,sabrinamacedo@example.com,14,Cientista de Dados,Baixa,Alta,Avançada,Alta,Avançada,Avançada,Avançada,Apto,93.75
+Gael Moraes,tmacedo@example.org,8,Cientista de Dados,Baixa,Baixa,Média,Avançada,Avançada,Alta,Avançada,Inapto,79.69
+Francisco Sales,bernardo59@example.com,4,Cientista de Dados,Média,Média,Baixa,Alta,Alta,Média,Alta,Inapto,57.81
+Joana Pacheco,pimentaliam@example.com,15,Cientista de Dados,Baixa,Baixa,Avançada,Avançada,Alta,Avançada,Média,Apto,82.81
+Sra. Caroline Castro,luccacamara@example.com,2,Cientista de Dados,Baixa,Avançada,Baixa,Média,Baixa,Alta,Avançada,Inapto,52.34
+Augusto Melo,nascimentocarolina@example.com,10,Cientista de Dados,Baixa,Alta,Alta,Média,Baixa,Avançada,Alta,Inapto,64.06
+Valentina Sampaio,scostela@example.org,14,Cientista de Dados,Média,Baixa,Média,Avançada,Média,Avançada,Alta,Inapto,71.09
+Cauã Siqueira,andradejuliana@example.net,10,Cientista de Dados,Média,Baixa,Avançada,Avançada,Alta,Avançada,Média,Apto,83.59
+Pedro Lucas Porto,raelda-paz@example.org,11,Cientista de Dados,Alta,Média,Média,Avançada,Média,Alta,Avançada,Inapto,69.53
+Sra. Clara Mendonça,vasconcelosmateus@example.net,15,Cientista de Dados,Média,Baixa,Alta,Alta,Avançada,Média,Alta,Apto,72.66
+Isaque Casa Grande,olivia61@example.net,12,Cientista de Dados,Avançada,Baixa,Avançada,Média,Alta,Alta,Alta,Apto,75.78
+João Felipe Dias,novaisluan@example.com,6,Cientista de Dados,Baixa,Baixa,Alta,Média,Avançada,Alta,Média,Apto,71.88
+Nicole Cunha,fda-rosa@example.com,1,Cientista de Dados,Baixa,Baixa,Média,Média,Média,Baixa,Baixa,Inapto,39.06
+Dr. Bryan Viana,evelynaragao@example.com,8,Cientista de Dados,Baixa,Baixa,Avançada,Alta,Alta,Média,Avançada,Apto,73.44
+Gabriel Ramos,riosgiovanna@example.net,14,Cientista de Dados,Média,Média,Baixa,Alta,Avançada,Alta,Baixa,Inapto,64.06
+Fernando Machado,luiz-miguelgarcia@example.com,2,Cientista de Dados,Média,Média,Alta,Alta,Avançada,Média,Média,Apto,70.31
+Thales Montenegro,isaacsilveira@example.com,3,Cientista de Dados,Avançada,Alta,Alta,Média,Avançada,Média,Avançada,Apto,75.78
+Davi Miguel Castro,peixotodanilo@example.com,2,Cientista de Dados,Alta,Avançada,Média,Alta,Alta,Média,Alta,Inapto,64.84
+Nathan Porto,santosanna-liz@example.net,5,Cientista de Dados,Alta,Média,Média,Alta,Alta,Média,Avançada,Inapto,66.41
+Maysa Sá,iguerra@example.com,13,Cientista de Dados,Média,Baixa,Avançada,Média,Média,Alta,Alta,Inapto,67.97
+Arthur Sales,laura13@example.com,0,Cientista de Dados,Baixa,Baixa,Média,Baixa,Média,Média,Baixa,Inapto,42.19
+Bryan Aragão,biancacasa-grande@example.net,7,Cientista de Dados,Média,Alta,Baixa,Avançada,Alta,Alta,Média,Inapto,64.84
+Mariane Correia,isaquecosta@example.com,4,Cientista de Dados,Baixa,Média,Baixa,Média,Média,Média,Média,Inapto,44.53
+Gael Porto,uda-mata@example.net,2,Cientista de Dados,Baixa,Alta,Alta,Avançada,Alta,Alta,Alta,Apto,76.56
+Ana Laura Borges,fariaslarissa@example.net,1,Cientista de Dados,Baixa,Baixa,Média,Avançada,Baixa,Média,Avançada,Inapto,54.69
+Theo Machado,monteiroalicia@example.org,3,Cientista de Dados,Alta,Média,Alta,Avançada,Alta,Baixa,Média,Inapto,61.72
+Henrique Mendes,anaaraujo@example.org,5,Cientista de Dados,Baixa,Baixa,Média,Avançada,Alta,Alta,Avançada,Inapto,73.44
+Lara Alves,dsantos@example.com,3,Cientista de Dados,Média,Baixa,Baixa,Alta,Avançada,Alta,Alta,Inapto,69.53
+Davi Luiz Azevedo,ngoncalves@example.net,15,Cientista de Dados,Média,Baixa,Média,Média,Média,Alta,Alta,Inapto,58.59
+Erick Novaes,daniel00@example.org,12,Cientista de Dados,Alta,Baixa,Avançada,Alta,Alta,Avançada,Média,Apto,81.25
+Allana Farias,edas-neves@example.com,14,Cientista de Dados,Média,Baixa,Média,Avançada,Alta,Avançada,Alta,Inapto,77.34
+Helena da Mata,caua90@example.com,14,Cientista de Dados,Baixa,Baixa,Baixa,Avançada,Alta,Avançada,Média,Inapto,68.75
+Léo Cavalcanti,nda-rosa@example.org,2,Cientista de Dados,Alta,Baixa,Alta,Média,Média,Alta,Média,Inapto,60.94
+Esther Martins,cecilia50@example.org,3,Cientista de Dados,Baixa,Média,Média,Alta,Avançada,Alta,Média,Inapto,71.09
+Luiz Felipe Andrade,daniela01@example.com,15,Cientista de Dados,Média,Média,Alta,Baixa,Média,Alta,Avançada,Inapto,64.06
+Marcos Vinicius Pacheco,isabella73@example.org,14,Cientista de Dados,Média,Baixa,Alta,Alta,Média,Alta,Alta,Inapto,66.41
+Joaquim da Costa,freitascecilia@example.org,12,Cientista de Dados,Média,Avançada,Avançada,Alta,Alta,Média,Média,Apto,70.31
+Leonardo Sousa,sampaioleo@example.org,15,Cientista de Dados,Baixa,Baixa,Média,Avançada,Alta,Alta,Baixa,Inapto,64.06
+Sr. Vitor Teixeira,yfarias@example.net,9,Cientista de Dados,Baixa,Alta,Média,Alta,Avançada,Alta,Avançada,Inapto,78.12
+Dra. Alana Fernandes,dlopes@example.net,9,Cientista de Dados,Média,Baixa,Alta,Média,Avançada,Média,Alta,Apto,69.53
+Rodrigo Fonseca,joao37@example.com,8,Cientista de Dados,Baixa,Média,Alta,Avançada,Média,Média,Avançada,Inapto,66.41
+Dra. Ana Beatriz Novaes,casa-grandejoao@example.com,7,Cientista de Dados,Baixa,Baixa,Alta,Alta,Avançada,Alta,Alta,Apto,78.12
+Srta. Zoe Cardoso,isaac39@example.com,12,Cientista de Dados,Média,Baixa,Avançada,Avançada,Baixa,Média,Avançada,Inapto,64.84
+Enrico da Cruz,dantemontenegro@example.net,10,Cientista de Dados,Média,Baixa,Média,Média,Alta,Média,Alta,Inapto,58.59
+Sra. Fernanda Leão,ana-cecilia17@example.net,2,Cientista de Dados,Avançada,Baixa,Avançada,Avançada,Alta,Alta,Média,Apto,78.91
+Sra. Eduarda Cavalcanti,jose-miguelbarbosa@example.net,7,Cientista de Dados,Baixa,Média,Média,Média,Avançada,Alta,Alta,Inapto,71.09
+Manuela Machado,nrodrigues@example.org,4,Cientista de Dados,Baixa,Média,Alta,Alta,Baixa,Alta,Alta,Inapto,60.16
+Luigi Montenegro,pedro-henrique28@example.com,10,Cientista de Dados,Média,Baixa,Alta,Alta,Alta,Avançada,Avançada,Apto,82.03
+Manuela Costela,pereiraraul@example.org,3,Cientista de Dados,Baixa,Avançada,Alta,Alta,Alta,Alta,Média,Apto,71.09
+Igor Monteiro,peixotoevelyn@example.com,11,Cientista de Dados,Média,Baixa,Alta,Alta,Média,Média,Alta,Inapto,60.16
+Mateus Viana,mirella09@example.org,2,Cientista de Dados,Baixa,Alta,Alta,Alta,Alta,Baixa,Avançada,Inapto,64.06
+Mateus Nunes,spimenta@example.org,9,Cientista de Dados,Baixa,Alta,Alta,Avançada,Avançada,Avançada,Avançada,Apto,92.19
+Guilherme Gonçalves,vitorpereira@example.org,3,Cientista de Dados,Baixa,Baixa,Alta,Média,Avançada,Média,Média,Apto,65.62
+Cecilia Ramos,glima@example.net,0,Cientista de Dados,Baixa,Baixa,Baixa,Baixa,Baixa,Alta,Média,Inapto,40.62
+Paulo Garcia,ana-livia76@example.com,14,Cientista de Dados,Média,Baixa,Avançada,Baixa,Alta,Alta,Alta,Inapto,71.09
+Dr. Heitor Cirino,leandrocavalcante@example.com,0,Cientista de Dados,Avançada,Média,Média,Alta,Média,Alta,Média,Inapto,60.94
+Sr. Leonardo Teixeira,qdas-neves@example.com,13,Cientista de Dados,Média,Média,Avançada,Média,Alta,Avançada,Média,Apto,78.12
+Helena Barros,maria-vitoriada-cruz@example.org,13,Cientista de Dados,Alta,Baixa,Alta,Alta,Alta,Avançada,Alta,Apto,79.69
+Sra. Marina Oliveira,josuenovais@example.org,6,Cientista de Dados,Baixa,Baixa,Avançada,Média,Alta,Alta,Média,Apto,70.31
+Larissa Ribeiro,heloisamoreira@example.org,8,Cientista de Dados,Baixa,Alta,Avançada,Alta,Avançada,Baixa,Alta,Inapto,71.88
+Isabella Moraes,stellalima@example.net,9,Cientista de Dados,Média,Alta,Alta,Alta,Avançada,Avançada,Alta,Apto,86.72
+Isabela da Cunha,camargoyuri@example.com,10,Cientista de Dados,Média,Baixa,Alta,Baixa,Avançada,Avançada,Alta,Inapto,78.91
+Sr. Gustavo Henrique Rios,thales08@example.org,10,Cientista de Dados,Alta,Média,Avançada,Avançada,Alta,Avançada,Média,Apto,85.16
+Dr. Marcos Vinicius Barbosa,andradejose@example.org,8,Cientista de Dados,Avançada,Baixa,Avançada,Avançada,Avançada,Alta,Avançada,Apto,91.41
+Lunna Monteiro,azevedodiogo@example.net,14,Cientista de Dados,Alta,Média,Alta,Avançada,Média,Baixa,Média,Inapto,55.47
+Vitor Gabriel Ramos,cmarques@example.net,0,Cientista de Dados,Alta,Média,Média,Alta,Média,Média,Baixa,Inapto,50.78
+Brenda Caldeira,bentopereira@example.net,1,Cientista de Dados,Baixa,Baixa,Média,Média,Alta,Baixa,Alta,Inapto,51.56
+Juan Pacheco,camilaalves@example.org,11,Cientista de Dados,Média,Média,Alta,Alta,Avançada,Avançada,Alta,Apto,85.94
+Apollo Pereira,pietraviana@example.com,6,Cientista de Dados,Baixa,Média,Média,Alta,Baixa,Média,Alta,Inapto,49.22
+Brenda Pinto,mmartins@example.net,7,Cientista de Dados,Baixa,Baixa,Alta,Alta,Alta,Avançada,Alta,Apto,78.12
+João Miguel Guerra,ianabreu@example.net,7,Cientista de Dados,Baixa,Média,Média,Alta,Média,Avançada,Avançada,Inapto,71.09
+Asafe Moraes,camposyasmin@example.org,12,Cientista de Dados,Baixa,Média,Média,Avançada,Avançada,Avançada,Alta,Inapto,83.59
+Theodoro Cavalcante,alexiada-mota@example.com,13,Cientista de Dados,Média,Baixa,Avançada,Alta,Avançada,Alta,Avançada,Apto,86.72
+Dra. Sofia da Cruz,maria36@example.org,1,Cientista de Dados,Baixa,Baixa,Alta,Avançada,Baixa,Alta,Avançada,Inapto,65.62
+Benjamim Farias,liam94@example.com,9,Cientista de Dados,Baixa,Média,Média,Média,Avançada,Média,Avançada,Inapto,67.97
+João Felipe Jesus,vasconcelosstella@example.net,9,Cientista de Dados,Alta,Alta,Alta,Média,Baixa,Avançada,Avançada,Inapto,68.75
+Ana Liz Teixeira,wvasconcelos@example.com,13,Cientista de Dados,Baixa,Baixa,Média,Alta,Avançada,Avançada,Alta,Inapto,79.69
+Henry Gabriel Araújo,ocaldeira@example.org,0,Cientista de Dados,Baixa,Baixa,Média,Avançada,Média,Alta,Baixa,Inapto,57.81
+Rhavi Nascimento,antonio97@example.net,0,Cientista de Dados,Baixa,Baixa,Baixa,Alta,Avançada,Alta,Baixa,Inapto,62.5
+Eduarda Lima,mfogaca@example.com,10,Cientista de Dados,Baixa,Baixa,Avançada,Baixa,Avançada,Avançada,Baixa,Inapto,76.56
+Levi Melo,brendacorreia@example.net,15,Cientista de Dados,Baixa,Baixa,Alta,Avançada,Alta,Alta,Avançada,Apto,78.12
+Pedro Castro,aylla53@example.net,4,Cientista de Dados,Alta,Baixa,Alta,Média,Avançada,Avançada,Alta,Apto,82.81
+Dr. Luiz Henrique da Costa,rezendejade@example.net,11,Cientista de Dados,Avançada,Alta,Avançada,Alta,Média,Alta,Avançada,Inapto,77.34
+Marcela da Paz,nsiqueira@example.net,8,Cientista de Dados,Baixa,Alta,Avançada,Alta,Alta,Avançada,Avançada,Apto,87.5
+Larissa Ferreira,bvasconcelos@example.net,5,Cientista de Dados,Média,Baixa,Alta,Média,Avançada,Alta,Baixa,Inapto,69.53
+Vinícius Jesus,joao-miguelviana@example.org,0,Cientista de Dados,Baixa,Baixa,Baixa,Baixa,Alta,Baixa,Média,Inapto,40.62
+Maria Isis Correia,isabela03@example.net,14,Cientista de Dados,Alta,Média,Alta,Avançada,Baixa,Alta,Avançada,Inapto,67.97
+Benicio Sousa,da-luzdaniel@example.com,11,Cientista de Dados,Média,Média,Média,Alta,Média,Alta,Avançada,Inapto,65.62
+Sophie Vargas,aragaoisaque@example.com,0,Cientista de Dados,Média,Baixa,Média,Média,Avançada,Alta,Alta,Inapto,71.09
+Vitor da Cunha,nogueiraluiz-felipe@example.net,7,Cientista de Dados,Alta,Alta,Média,Alta,Média,Média,Avançada,Inapto,60.94
+Ana Laura da Cunha,peixotoigor@example.org,5,Cientista de Dados,Baixa,Alta,Média,Alta,Avançada,Alta,Alta,Inapto,75.0
+Vitória Porto,aliciasouza@example.com,6,Cientista de Dados,Média,Baixa,Avançada,Alta,Alta,Média,Avançada,Apto,74.22
+Sra. Luana Martins,borgesmaria-alice@example.org,12,Cientista de Dados,Média,Média,Média,Média,Avançada,Alta,Avançada,Inapto,75.0
+Rafael Marques,lais01@example.com,7,Cientista de Dados,Baixa,Média,Alta,Avançada,Baixa,Média,Avançada,Inapto,60.16
+Thiago Mendes,fmelo@example.org,6,Cientista de Dados,Alta,Média,Avançada,Alta,Alta,Avançada,Avançada,Apto,88.28
+Isadora Rios,francisco70@example.net,5,Cientista de Dados,Alta,Baixa,Média,Alta,Alta,Alta,Avançada,Inapto,71.88
+Maria Luiza Correia,jose-miguelcaldeira@example.com,7,Cientista de Dados,Baixa,Média,Média,Baixa,Média,Alta,Alta,Inapto,55.47
+Igor Barros,catarinacampos@example.net,7,Cientista de Dados,Baixa,Baixa,Alta,Alta,Avançada,Alta,Alta,Apto,78.12
+Dra. Maitê Moreira,sjesus@example.org,3,Cientista de Dados,Média,Alta,Média,Alta,Média,Média,Média,Inapto,53.91
+Pedro Miguel Cardoso,vargasrael@example.org,4,Cientista de Dados,Baixa,Média,Alta,Alta,Média,Alta,Alta,Inapto,66.41
+Augusto Moreira,ana-sophia20@example.net,0,Cientista de Dados,Baixa,Alta,Média,Baixa,Baixa,Alta,Baixa,Inapto,43.75
+Juliana Martins,caleb45@example.net,7,Cientista de Dados,Alta,Média,Avançada,Baixa,Avançada,Alta,Alta,Inapto,78.91
+Samuel Ribeiro,mirellalopes@example.com,7,Cientista de Dados,Média,Média,Média,Avançada,Avançada,Alta,Alta,Inapto,78.12
+Dr. Luiz Henrique Cassiano,bfonseca@example.com,5,Cientista de Dados,Baixa,Média,Alta,Alta,Avançada,Alta,Média,Apto,75.78
+Juan Ribeiro,kamillyrezende@example.net,13,Cientista de Dados,Média,Média,Média,Média,Alta,Média,Alta,Inapto,59.38
+Paulo Castro,bsouza@example.com,5,Cientista de Dados,Baixa,Média,Média,Alta,Média,Avançada,Alta,Inapto,67.97
+Alana Farias,yazevedo@example.org,1,Cientista de Dados,Alta,Média,Média,Baixa,Baixa,Baixa,Baixa,Inapto,32.03
+Breno Costela,maria-alicemoraes@example.com,9,Cientista de Dados,Baixa,Baixa,Média,Média,Avançada,Média,Média,Inapto,60.94
+Isaque Ferreira,emilly10@example.org,7,Cientista de Dados,Baixa,Baixa,Alta,Alta,Alta,Média,Alta,Apto,65.62
+Dr. João Guilherme Ribeiro,thiagomarques@example.com,0,Cientista de Dados,Média,Avançada,Média,Alta,Baixa,Média,Média,Inapto,48.44
+Sra. Beatriz Pereira,apereira@example.com,15,Cientista de Dados,Baixa,Alta,Alta,Alta,Alta,Alta,Alta,Apto,73.44
+Srta. Sophia Mendonça,lavinia17@example.org,5,Cientista de Dados,Alta,Baixa,Avançada,Alta,Média,Avançada,Alta,Inapto,78.12
+Luigi Fogaça,gomeshenry@example.org,13,Cientista de Dados,Média,Baixa,Avançada,Alta,Alta,Média,Avançada,Apto,74.22
+Zoe Mendonça,joaosousa@example.org,6,Cientista de Dados,Baixa,Média,Média,Alta,Avançada,Alta,Avançada,Inapto,77.34
+Caleb Silveira,da-cunhamathias@example.com,7,Cientista de Dados,Média,Baixa,Média,Média,Alta,Alta,Alta,Inapto,64.84
+Thomas Farias,eduardo71@example.org,12,Cientista de Dados,Alta,Média,Alta,Alta,Média,Avançada,Alta,Inapto,74.22
+Srta. Lorena da Cruz,calebpires@example.com,5,Cientista de Dados,Alta,Média,Avançada,Avançada,Média,Média,Avançada,Inapto,72.66
+Alexia Oliveira,marcos-viniciusazevedo@example.net,0,Cientista de Dados,Média,Baixa,Baixa,Alta,Alta,Alta,Baixa,Inapto,57.03
+Srta. Ana Rocha,rodriguesvalentim@example.com,15,Cientista de Dados,Média,Baixa,Alta,Baixa,Avançada,Baixa,Alta,Inapto,60.16
+Sr. Henrique Martins,salesmaria-vitoria@example.net,5,Cientista de Dados,Baixa,Baixa,Avançada,Alta,Média,Avançada,Alta,Inapto,76.56
+Aurora Correia,lavinia20@example.net,1,Cientista de Dados,Baixa,Baixa,Média,Média,Baixa,Baixa,Baixa,Inapto,32.81
+Luiz Otávio da Rocha,qbarbosa@example.net,15,Cientista de Dados,Baixa,Alta,Avançada,Média,Avançada,Alta,Avançada,Apto,84.38
+Bernardo Nunes,bcorreia@example.com,11,Cientista de Dados,Média,Baixa,Alta,Alta,Avançada,Média,Avançada,Apto,75.78
+Ana Júlia Alves,novaesmaria-helena@example.com,7,Cientista de Dados,Avançada,Média,Alta,Alta,Avançada,Alta,Avançada,Apto,84.38
+Ana Clara Montenegro,qteixeira@example.net,0,Cientista de Dados,Média,Baixa,Baixa,Média,Alta,Média,Baixa,Inapto,47.66
+Ayla Nunes,vieiralucas@example.org,3,Cientista de Dados,Alta,Baixa,Avançada,Baixa,Alta,Alta,Média,Inapto,68.75
+Maria Júlia Andrade,milena91@example.org,14,Cientista de Dados,Baixa,Média,Alta,Alta,Avançada,Alta,Média,Apto,75.78
+Benjamin da Paz,umarques@example.com,6,Cientista de Dados,Alta,Média,Avançada,Média,Média,Média,Alta,Inapto,63.28
+Kamilly Campos,urodrigues@example.org,13,Cientista de Dados,Baixa,Média,Alta,Avançada,Média,Alta,Alta,Inapto,69.53
+Ana Cecília Aparecida,cavalcantijose-pedro@example.org,12,Cientista de Dados,Baixa,Alta,Avançada,Alta,Alta,Alta,Média,Apto,75.0
+Marcelo Farias,yago24@example.com,4,Cientista de Dados,Baixa,Baixa,Média,Alta,Avançada,Avançada,Avançada,Inapto,82.81
+Luísa Cunha,moraesvinicius@example.org,4,Cientista de Dados,Média,Baixa,Alta,Baixa,Alta,Alta,Média,Inapto,63.28
+Luan Costa,da-rosamaria-eduarda@example.net,1,Cientista de Dados,Média,Média,Alta,Alta,Baixa,Média,Alta,Inapto,54.69
+Bella Abreu,da-rosaeduardo@example.net,3,Cientista de Dados,Alta,Avançada,Baixa,Alta,Avançada,Baixa,Média,Inapto,57.03
+Henrique da Paz,guerraluana@example.org,8,Cientista de Dados,Média,Baixa,Alta,Alta,Alta,Média,Baixa,Inapto,60.16
+Leandro Mendes,yazevedo@example.net,11,Cientista de Dados,Baixa,Baixa,Avançada,Alta,Média,Avançada,Baixa,Inapto,70.31
+Alícia Teixeira,andradearthur@example.net,2,Cientista de Dados,Média,Média,Média,Avançada,Alta,Média,Alta,Inapto,65.62
+Joana Macedo,zoe10@example.net,10,Cientista de Dados,Baixa,Média,Avançada,Avançada,Avançada,Alta,Média,Apto,83.59
+Ryan Câmara,souzagustavo@example.net,14,Cientista de Dados,Baixa,Baixa,Média,Média,Avançada,Alta,Média,Inapto,67.19
+Ravi Lucca Mendonça,ncamargo@example.org,11,Cientista de Dados,Média,Alta,Baixa,Avançada,Média,Avançada,Baixa,Inapto,61.72
+Kaique da Mota,maria-luisagarcia@example.com,14,Cientista de Dados,Média,Baixa,Alta,Média,Avançada,Avançada,Alta,Apto,82.03
+Maria Luiza Mendonça,martinslunna@example.com,15,Cientista de Dados,Média,Alta,Média,Alta,Avançada,Avançada,Avançada,Inapto,85.16
+Otávio Melo,csa@example.com,11,Cientista de Dados,Alta,Média,Baixa,Avançada,Alta,Alta,Média,Inapto,64.84
+Matteo Sá,pintohelena@example.net,15,Cientista de Dados,Baixa,Média,Baixa,Média,Média,Alta,Média,Inapto,50.78
+Sra. Catarina Andrade,yuripeixoto@example.net,3,Cientista de Dados,Baixa,Baixa,Avançada,Alta,Média,Média,Avançada,Inapto,67.19
+Natália Abreu,da-luzleticia@example.net,12,Cientista de Dados,Avançada,Média,Avançada,Média,Alta,Avançada,Avançada,Apto,85.94
+Ravy Sá,das-nevesluiz-otavio@example.com,14,Cientista de Dados,Baixa,Alta,Avançada,Alta,Avançada,Avançada,Alta,Apto,90.62
+Ana Carolina Carvalho,tvieira@example.org,13,Cientista de Dados,Média,Baixa,Alta,Alta,Avançada,Alta,Alta,Apto,78.91
+Sophie Novais,nascimentoeloa@example.net,1,Cientista de Dados,Alta,Baixa,Baixa,Baixa,Baixa,Baixa,Baixa,Inapto,26.56
+Thomas Vieira,carolinada-mata@example.net,11,Cientista de Dados,Baixa,Baixa,Média,Alta,Média,Alta,Média,Inapto,57.81
+Sr. Juan Rezende,joaquim52@example.net,4,Cientista de Dados,Baixa,Baixa,Alta,Alta,Avançada,Média,Alta,Apto,71.88
+Larissa da Rocha,cavalcanteevelyn@example.net,15,Cientista de Dados,Baixa,Baixa,Alta,Alta,Alta,Alta,Avançada,Apto,75.0
+Felipe Aragão,davi-lucca05@example.net,6,Cientista de Dados,Baixa,Baixa,Alta,Alta,Avançada,Alta,Média,Apto,75.0
+Raul da Costa,jcosta@example.com,1,Cientista de Dados,Média,Média,Alta,Média,Baixa,Média,Média,Inapto,48.44
+Carolina Teixeira,aazevedo@example.net,6,Cientista de Dados,Baixa,Média,Avançada,Média,Média,Avançada,Alta,Inapto,74.22
+Rael Fogaça,fdias@example.com,7,Cientista de Dados,Baixa,Alta,Avançada,Alta,Avançada,Média,Média,Apto,75.0
+Luiz Miguel Dias,isaqueda-luz@example.com,9,Cientista de Dados,Avançada,Avançada,Avançada,Alta,Média,Alta,Média,Inapto,71.88
+Srta. Elisa Mendes,felipecaldeira@example.com,5,Cientista de Dados,Baixa,Avançada,Alta,Avançada,Baixa,Média,Média,Inapto,55.47
+Brenda Ferreira,novaisaurora@example.org,12,Cientista de Dados,Baixa,Alta,Avançada,Avançada,Alta,Avançada,Avançada,Apto,90.62
+Sra. Ana Caldeira,rmonteiro@example.org,10,Cientista de Dados,Média,Baixa,Média,Alta,Alta,Baixa,Avançada,Inapto,58.59
+Julia Cirino,pastormaria-liz@example.com,8,Cientista de Dados,Baixa,Média,Média,Média,Média,Alta,Alta,Inapto,58.59
+Thiago Fernandes,da-rochamirella@example.net,4,Cientista de Dados,Baixa,Baixa,Média,Média,Alta,Baixa,Alta,Inapto,51.56
+Sr. Pietro Ramos,montenegromaria-cecilia@example.org,5,Cientista de Dados,Baixa,Baixa,Alta,Avançada,Alta,Média,Alta,Apto,68.75
+Alexia Alves,arthur-gabriel23@example.org,10,Cientista de Dados,Alta,Alta,Baixa,Alta,Avançada,Alta,Baixa,Inapto,65.62
+Dr. Noah Sousa,dnunes@example.net,2,Cientista de Dados,Alta,Baixa,Baixa,Alta,Alta,Avançada,Média,Inapto,67.19
+Nathan Garcia,emanuelly68@example.com,13,Cientista de Dados,Média,Média,Alta,Avançada,Alta,Média,Avançada,Apto,73.44
+Natália Fonseca,dmontenegro@example.net,13,Cientista de Dados,Baixa,Baixa,Alta,Alta,Média,Avançada,Alta,Inapto,71.88
+Murilo da Rocha,ninabarbosa@example.net,9,Cientista de Dados,Média,Baixa,Avançada,Avançada,Avançada,Alta,Avançada,Apto,89.84
+Francisco Rios,zbrito@example.com,6,Cientista de Dados,Baixa,Baixa,Média,Média,Avançada,Média,Avançada,Inapto,67.19
+Maria Liz Porto,ana-carolinadas-neves@example.org,5,Cientista de Dados,Baixa,Alta,Alta,Média,Média,Avançada,Avançada,Inapto,73.44
+Anthony Gabriel da Conceição,davi-miguelporto@example.com,15,Cientista de Dados,Média,Baixa,Alta,Alta,Média,Avançada,Baixa,Inapto,66.41
+Milena da Paz,ravi-luccavieira@example.com,2,Cientista de Dados,Baixa,Baixa,Alta,Avançada,Média,Média,Avançada,Inapto,65.62
+Dra. Maria Fernanda Ramos,isis49@example.com,1,Cientista de Dados,Média,Avançada,Baixa,Média,Média,Baixa,Média,Inapto,40.62
+Luiza Melo,laraujo@example.net,14,Cientista de Dados,Baixa,Baixa,Avançada,Avançada,Alta,Média,Média,Apto,70.31
+Bernardo Montenegro,estermoreira@example.net,14,Cientista de Dados,Avançada,Média,Alta,Média,Alta,Média,Média,Apto,62.5
+Enzo Gabriel Rodrigues,calebealves@example.org,3,Cientista de Dados,Baixa,Baixa,Baixa,Média,Avançada,Baixa,Alta,Inapto,53.12
+Aylla da Mata,renanfonseca@example.com,11,Cientista de Dados,Baixa,Média,Baixa,Baixa,Avançada,Avançada,Alta,Inapto,69.53
+Luiz Miguel das Neves,vieiralucas-gabriel@example.org,5,Cientista de Dados,Avançada,Baixa,Média,Avançada,Avançada,Média,Média,Inapto,69.53
+Rael Garcia,fernandeselisa@example.net,5,Cientista de Dados,Média,Média,Média,Avançada,Avançada,Alta,Alta,Inapto,78.12
+Dra. Zoe Viana,isiscastro@example.org,13,Cientista de Dados,Média,Baixa,Média,Alta,Média,Avançada,Avançada,Inapto,71.09
+Ayla Rezende,maria-vitoria72@example.org,12,Cientista de Dados,Média,Alta,Alta,Avançada,Avançada,Alta,Média,Apto,80.47
+Ana Laura Rios,zoe69@example.com,12,Cientista de Dados,Baixa,Média,Avançada,Média,Avançada,Alta,Média,Apto,77.34
+Emanuel Freitas,aalbuquerque@example.com,12,Cientista de Dados,Média,Alta,Avançada,Avançada,Baixa,Avançada,Alta,Inapto,75.78
+Calebe Costela,xduarte@example.net,5,Cientista de Dados,Média,Baixa,Média,Alta,Avançada,Média,Alta,Inapto,67.97
+Anthony Gabriel Duarte,mvieira@example.net,4,Cientista de Dados,Baixa,Baixa,Alta,Alta,Avançada,Baixa,Média,Inapto,62.5
+Heitor Duarte,joao-gabriel38@example.net,1,Cientista de Dados,Média,Baixa,Média,Alta,Média,Avançada,Média,Inapto,64.84
+Isabel Moreira,isaac08@example.com,5,Cientista de Dados,Baixa,Baixa,Avançada,Baixa,Alta,Alta,Média,Inapto,67.19
+Cauê Araújo,daraujo@example.com,1,Cientista de Dados,Avançada,Baixa,Avançada,Média,Média,Média,Alta,Inapto,63.28
+Bento Dias,limalorenzo@example.net,6,Cientista de Dados,Alta,Alta,Avançada,Avançada,Avançada,Média,Avançada,Apto,85.94
+Heloísa Abreu,jademelo@example.org,13,Cientista de Dados,Média,Baixa,Avançada,Média,Média,Média,Alta,Inapto,61.72
+Helena Correia,aragaoeduarda@example.net,4,Cientista de Dados,Baixa,Baixa,Avançada,Baixa,Média,Alta,Avançada,Inapto,67.19
+Marcela Mendes,isaque68@example.com,8,Cientista de Dados,Avançada,Alta,Avançada,Alta,Alta,Alta,Baixa,Inapto,74.22
+Maria Alice Sales,rael17@example.net,8,Cientista de Dados,Média,Baixa,Alta,Média,Baixa,Avançada,Alta,Inapto,63.28
+Maria Fernanda Cirino,diasleticia@example.net,3,Cientista de Dados,Média,Média,Alta,Alta,Avançada,Alta,Alta,Apto,79.69
+Maria Luiza Duarte,isaquecamargo@example.org,3,Cientista de Dados,Média,Baixa,Alta,Alta,Alta,Baixa,Baixa,Inapto,53.91
+Melissa Cardoso,aylla22@example.net,13,Cientista de Dados,Baixa,Baixa,Alta,Média,Avançada,Alta,Alta,Apto,75.0
+Isabela Moura,cunhaotavio@example.net,8,Cientista de Dados,Média,Média,Média,Média,Média,Baixa,Avançada,Inapto,50.0
+Liam Fernandes,mouraalicia@example.org,11,Cientista de Dados,Média,Baixa,Média,Alta,Alta,Média,Alta,Inapto,61.72
+Sabrina Nunes,heloisa75@example.org,3,Cientista de Dados,Baixa,Média,Alta,Alta,Média,Alta,Alta,Inapto,66.41
+Davi Rodrigues,vargassophie@example.net,10,Cientista de Dados,Baixa,Avançada,Avançada,Média,Alta,Avançada,Avançada,Apto,85.16
+Sra. Maya Rios,pereiraenzo-gabriel@example.org,4,Cientista de Dados,Baixa,Baixa,Média,Média,Média,Média,Alta,Inapto,51.56
+Nina Brito,barbaracaldeira@example.org,6,Cientista de Dados,Baixa,Média,Média,Alta,Alta,Baixa,Avançada,Inapto,58.59
+Paulo Abreu,jjesus@example.net,8,Cientista de Dados,Alta,Baixa,Média,Avançada,Avançada,Média,Avançada,Inapto,75.0
+Isadora Souza,marcela01@example.org,10,Cientista de Dados,Alta,Média,Alta,Média,Avançada,Avançada,Média,Apto,80.47
+Bernardo Campos,machadoolivia@example.com,10,Cientista de Dados,Baixa,Baixa,Avançada,Alta,Avançada,Média,Alta,Apto,76.56
+Sra. Emanuella Caldeira,enzosilveira@example.com,3,Cientista de Dados,Baixa,Alta,Alta,Média,Avançada,Média,Alta,Apto,70.31
+Cecilia Pinto,ocorreia@example.com,11,Cientista de Dados,Alta,Média,Alta,Alta,Média,Alta,Avançada,Inapto,71.09
+Catarina Barbosa,liz45@example.net,1,Cientista de Dados,Média,Baixa,Média,Média,Alta,Avançada,Média,Inapto,67.97
+Mariah Souza,maria-lauravargas@example.com,13,Cientista de Dados,Média,Baixa,Avançada,Média,Alta,Média,Média,Apto,64.84
+Aurora Montenegro,qcamara@example.net,0,Cientista de Dados,Média,Baixa,Baixa,Avançada,Alta,Média,Baixa,Inapto,53.91
+Joaquim Carvalho,aurora93@example.com,6,Cientista de Dados,Alta,Alta,Avançada,Média,Avançada,Média,Avançada,Apto,79.69
+Maria Sophia da Cruz,da-luzbianca@example.org,10,Cientista de Dados,Alta,Baixa,Média,Média,Alta,Avançada,Avançada,Inapto,75.0
+Davi Lucca Casa Grande,luiz-gustavoviana@example.net,8,Cientista de Dados,Alta,Média,Média,Avançada,Baixa,Alta,Média,Inapto,57.03
+Léo da Rosa,viniciusfonseca@example.net,7,Cientista de Dados,Avançada,Média,Alta,Alta,Alta,Avançada,Alta,Apto,81.25
+Kevin Carvalho,mariane20@example.org,15,Cientista de Dados,Média,Baixa,Média,Alta,Alta,Avançada,Baixa,Inapto,67.97
+Gabrielly Cassiano,hellenamoreira@example.net,7,Cientista de Dados,Média,Baixa,Avançada,Alta,Alta,Avançada,Avançada,Apto,86.72
+Benício Casa Grande,wnunes@example.org,12,Cientista de Dados,Média,Média,Alta,Alta,Alta,Alta,Avançada,Apto,76.56
+Rhavi Marques,costaana-carolina@example.com,0,Cientista de Dados,Baixa,Avançada,Alta,Baixa,Alta,Média,Baixa,Inapto,55.47
+Dr. Gustavo Garcia,yfreitas@example.org,6,Cientista de Dados,Baixa,Baixa,Avançada,Alta,Alta,Média,Avançada,Apto,73.44
+Leonardo Cirino,juliagoncalves@example.net,5,Cientista de Dados,Baixa,Média,Média,Avançada,Alta,Alta,Média,Inapto,67.97
+Francisco Cirino,jose-pedrorezende@example.com,5,Cientista de Dados,Baixa,Média,Avançada,Alta,Avançada,Avançada,Avançada,Apto,92.97
+Liam Marques,davi-miguel00@example.org,14,Cientista de Dados,Baixa,Alta,Avançada,Baixa,Avançada,Avançada,Média,Inapto,81.25
+Mathias Vasconcelos,julianavargas@example.org,3,Cientista de Dados,Avançada,Baixa,Alta,Alta,Avançada,Alta,Alta,Apto,80.47
+João Gabriel Ribeiro,otavioazevedo@example.net,4,Cientista de Dados,Média,Baixa,Avançada,Média,Média,Alta,Alta,Inapto,67.97
+Heloisa da Cruz,dbarbosa@example.net,15,Cientista de Dados,Baixa,Baixa,Avançada,Alta,Média,Alta,Alta,Inapto,70.31
+Sr. Isaac Lima,yda-costa@example.net,1,Cientista de Dados,Alta,Média,Média,Alta,Alta,Baixa,Baixa,Inapto,50.78
+Luísa Vargas,maria-julia53@example.com,15,Cientista de Dados,Baixa,Baixa,Alta,Avançada,Alta,Alta,Alta,Apto,75.0
+Pedro Henrique Fogaça,duartedaniela@example.org,6,Cientista de Dados,Baixa,Média,Avançada,Baixa,Média,Alta,Avançada,Inapto,67.97
+Mathias Castro,xazevedo@example.com,1,Cientista de Dados,Alta,Baixa,Média,Baixa,Média,Alta,Baixa,Inapto,50.0
+Srta. Stella Freitas,pedro-lucaspinto@example.com,13,Cientista de Dados,Avançada,Baixa,Média,Alta,Média,Alta,Média,Inapto,60.16
+Maitê Pimenta,bcaldeira@example.com,2,Cientista de Dados,Baixa,Baixa,Baixa,Avançada,Alta,Avançada,Avançada,Inapto,75.0
+Yan Aparecida,valmeida@example.com,3,Cientista de Dados,Média,Baixa,Alta,Avançada,Avançada,Avançada,Alta,Apto,88.28
+Lorena Barros,da-pazemanuel@example.net,3,Cientista de Dados,Baixa,Baixa,Média,Alta,Avançada,Alta,Alta,Inapto,73.44
+Milena Pereira,marcos-vinicius50@example.org,6,Cientista de Dados,Baixa,Média,Avançada,Avançada,Avançada,Alta,Avançada,Apto,89.84
+Stella Mendonça,larissacamargo@example.net,12,Cientista de Dados,Alta,Avançada,Média,Média,Alta,Avançada,Alta,Inapto,74.22
+Bruno Ramos,stephanysouza@example.com,1,Cientista de Dados,Avançada,Baixa,Baixa,Média,Baixa,Alta,Alta,Inapto,49.22
+Sr. Thomas Cavalcante,carolina06@example.org,14,Cientista de Dados,Baixa,Baixa,Avançada,Avançada,Avançada,Alta,Alta,Apto,85.94
+Ana Júlia da Luz,melissagomes@example.org,1,Cientista de Dados,Baixa,Alta,Baixa,Alta,Média,Baixa,Média,Inapto,42.19
+Otto Melo,calebrios@example.net,3,Cientista de Dados,Baixa,Média,Alta,Média,Média,Avançada,Média,Inapto,66.41
+Benício Azevedo,nicolasduarte@example.org,6,Cientista de Dados,Média,Média,Avançada,Média,Média,Alta,Média,Inapto,65.62
+Lunna Mendes,otaviomacedo@example.org,8,Cientista de Dados,Média,Média,Baixa,Média,Baixa,Média,Avançada,Inapto,45.31
+Dr. Yan Ramos,noahbrito@example.com,12,Cientista de Dados,Média,Baixa,Alta,Avançada,Alta,Avançada,Alta,Apto,82.03
+Maria Isis Macedo,dom56@example.org,14,Cientista de Dados,Avançada,Alta,Avançada,Avançada,Avançada,Alta,Média,Apto,86.72
+Théo Fogaça,gabrielamoreira@example.net,11,Cientista de Dados,Baixa,Baixa,Avançada,Alta,Alta,Alta,Avançada,Apto,79.69
+Dr. Erick Araújo,guerraarthur-miguel@example.net,1,Cientista de Dados,Alta,Baixa,Média,Baixa,Alta,Média,Alta,Inapto,56.25
+Guilherme Novaes,da-rosaana-julia@example.net,0,Cientista de Dados,Alta,Média,Média,Avançada,Baixa,Alta,Alta,Inapto,60.16
+Pietro Novaes,olopes@example.org,6,Cientista de Dados,Baixa,Média,Alta,Alta,Avançada,Avançada,Avançada,Apto,88.28
+Vinícius das Neves,galves@example.org,14,Cientista de Dados,Baixa,Baixa,Avançada,Média,Média,Avançada,Média,Inapto,70.31
+Theodoro Cassiano,hadassa26@example.net,1,Cientista de Dados,Baixa,Média,Média,Baixa,Baixa,Baixa,Alta,Inapto,36.72
+Arthur Gomes,lferreira@example.com,8,Cientista de Dados,Baixa,Média,Média,Média,Avançada,Avançada,Alta,Inapto,77.34
+Sr. Gustavo da Luz,peixotoapollo@example.net,6,Cientista de Dados,Média,Alta,Avançada,Avançada,Alta,Alta,Alta,Apto,82.03
+Anthony Machado,pachecojose@example.org,13,Cientista de Dados,Média,Média,Alta,Avançada,Média,Avançada,Baixa,Inapto,70.31
+Liam Costa,sjesus@example.com,13,Cientista de Dados,Baixa,Baixa,Média,Avançada,Média,Média,Média,Inapto,54.69
+Mathias Caldeira,xpires@example.org,0,Cientista de Dados,Média,Média,Avançada,Baixa,Baixa,Alta,Alta,Inapto,59.38
+Marcos Vinicius da Cunha,calebe71@example.com,7,Cientista de Dados,Baixa,Baixa,Média,Alta,Média,Avançada,Alta,Inapto,67.19
+Ana Liz Moraes,brenoda-conceicao@example.com,15,Cientista de Dados,Baixa,Baixa,Avançada,Média,Alta,Alta,Média,Apto,70.31
