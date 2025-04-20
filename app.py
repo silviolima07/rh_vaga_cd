@@ -120,7 +120,7 @@ center_img(img)
 st.write(' ') 
 st.markdown("### Responda:")
 st.markdown("#### Quantos anos de experiência?")
-exp = st.slider("Quantos anos de experiência?", 0, 10, label_visibility='collapsed')
+exp = st.slider("Quantos anos de experiência?", 0, 10, 6, label_visibility='collapsed')
 
 st.markdown("#### Informe o nivel de proficiência :")
 col1, col2, col3 = st.columns(3)
