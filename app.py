@@ -31,7 +31,7 @@ with col5:
 with col6:
 
     job2 = Image.open('img/job.png')
-    st.image(job, use_container_width=True)
+    st.image(job2, use_container_width=True)
 
 # Carregando o modelo Random Forest
 def load_modelo():
