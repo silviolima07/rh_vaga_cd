@@ -30,8 +30,8 @@ with col5:
 
 with col6:
 
-    logo = Image.open('img/logo.png')
-    st.sidebar.image(logo, use_container_width=True)
+    job2 = Image.open('img/job.png')
+    st.image(job, use_container_width=True)
 
 # Carregando o modelo Random Forest
 def load_modelo():
