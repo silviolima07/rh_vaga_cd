@@ -115,7 +115,7 @@ st.sidebar.markdown('### Avançada: Experiência em diversos projetos')
 
 # Centralizar imagem da cloud    
 img = 'job'        
-center_img(img, 50)   
+center_img(img, 30)   
 
 st.write(' ') 
 st.markdown("### Responda:")
@@ -245,7 +245,7 @@ if st.button("Classificar"):
         st.markdown(html_page_subtitle, unsafe_allow_html=True)
         # Imagem da comemoracao
         img = 'chop'        
-        center_img(img, 60)
+        center_img(img, 70)
         st.balloons()
         sleep(5)        
         st.balloons()        
