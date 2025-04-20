@@ -28,7 +28,7 @@ with col2:
 
     html_page_title = """
 <div style="background-color:black;padding=60px">
-        <p style='text-align:center;font-size:60px;font-weight:bold; color:blue'>Classificador de Candidatos</p>
+        <p style='text-align:left;font-size:60px;font-weight:bold; color:blue'>Classificador de Candidatos</p>
 </div>
 """               
     st.markdown(html_page_title, unsafe_allow_html=True)
