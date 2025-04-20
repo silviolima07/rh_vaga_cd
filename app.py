@@ -60,7 +60,7 @@ def center_img(image):
     st.markdown(
         f"""
         <div style="display: flex; justify-content: center;">
-            <img src="data:image/png;base64,{base64_image}" alt="Imagem" style="width: 50%; height: auto;">
+            <img src="data:image/png;base64,{base64_image}" alt="Imagem" style="width: 40%; height: auto;">
         </div>
         """,
         unsafe_allow_html=True
