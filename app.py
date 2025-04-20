@@ -114,7 +114,7 @@ st.sidebar.markdown('### Alta:     Consigo desenvolver programas e análises')
 st.sidebar.markdown('### Avançada: Experiência em diversos projetos')
 
 # Centralizar imagem da cloud    
-img = 'cloud'        
+img = 'job'        
 center_img(img)   
 
 st.write(' ') 
