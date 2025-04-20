@@ -49,7 +49,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-def center_img(image):
+def center_img(image, size):
     # Centralizar imagem da cloud
     img = Image.open(f'img/{image}.png')
     image_path="image.png"
@@ -60,7 +60,7 @@ def center_img(image):
     st.markdown(
         f"""
         <div style="display: flex; justify-content: center;">
-            <img src="data:image/png;base64,{base64_image}" alt="Imagem" style="width: 40%; height: auto;">
+            <img src="data:image/png;base64,{base64_image}" alt="Imagem" style="width: {size}%; height: auto;">
         </div>
         """,
         unsafe_allow_html=True
@@ -115,7 +115,7 @@ st.sidebar.markdown('### Avançada: Experiência em diversos projetos')
 
 # Centralizar imagem da cloud    
 img = 'job'        
-center_img(img)   
+center_img(img, 50)   
 
 st.write(' ') 
 st.markdown("### Responda:")
@@ -245,7 +245,7 @@ if st.button("Classificar"):
         st.markdown(html_page_subtitle, unsafe_allow_html=True)
         # Imagem da comemoracao
         img = 'chop'        
-        center_img(img)
+        center_img(img, 60)
         st.balloons()
         sleep(5)        
         st.balloons()        
