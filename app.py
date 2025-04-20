@@ -14,19 +14,24 @@ from time import sleep
 def encode_image(image_path):
   with open(image_path, "rb") as image_file:
     return pybase64.b64encode(image_file.read()).decode('utf-8') 
+    
 
-html_page_title = """
+
+col01, col02 = st.columns(2)
+
+with col01:
+
+    html_page_title = """
 <div style="background-color:black;padding=60px">
         <p style='text-align:center;font-size:60px;font-weight:bold; color:blue'>Classificador de Candidatos</p>
 </div>
 """               
-st.markdown(html_page_title, unsafe_allow_html=True)
+    st.markdown(html_page_title, unsafe_allow_html=True)
 
+with col02:
 
-
-
-logo = Image.open('img/logo.png')
-st.sidebar.image(logo, use_container_width=True)
+    logo = Image.open('img/logo.png')
+    st.sidebar.image(logo, use_container_width=True)
 
 # Carregando o modelo Random Forest
 def load_modelo():
