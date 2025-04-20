@@ -31,7 +31,7 @@ with col5:
 with col6:
 
     job2 = Image.open('img/job.png')
-    st.image(job2, use_container_width=True)
+    st.image(job2, use_container_width=False)
 
 # Carregando o modelo Random Forest
 def load_modelo():
@@ -119,8 +119,8 @@ st.sidebar.markdown('### Alta:     Consigo desenvolver programas e análises')
 st.sidebar.markdown('### Avançada: Experiência em diversos projetos')
 
 # Centralizar imagem da cloud    
-img = 'job'        
-center_img(img, 30)   
+#img = 'job'        
+#center_img(img, 30)   
 
 st.write(' ') 
 st.markdown("### Responda:")
