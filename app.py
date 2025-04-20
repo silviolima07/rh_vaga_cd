@@ -19,7 +19,7 @@ def encode_image(image_path):
 
 col01, col02 = st.columns(2)
 
-with col01:
+with col02:
 
     html_page_title = """
 <div style="background-color:black;padding=60px">
@@ -28,7 +28,7 @@ with col01:
 """               
     st.markdown(html_page_title, unsafe_allow_html=True)
 
-with col02:
+with col01:
 
     logo = Image.open('img/logo.png')
     st.sidebar.image(logo, use_container_width=True)
