@@ -33,7 +33,8 @@ with col2:
 """               
     st.markdown(html_page_title, unsafe_allow_html=True)
 
-
+logo = Image.open('img/logo.png')
+st.sidebar.image(logo, use_container_width=True)
 
 # Carregando o modelo Random Forest
 def load_modelo():
