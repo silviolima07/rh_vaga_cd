@@ -22,7 +22,7 @@ col1, col2 = st.columns(2)
 with col1:
 
     job2 = Image.open('img/job.png')
-    st.image(job2, use_container_width=False)
+    st.image(job2, use_container_width=True)
     
 with col2:
 
